@@ -1,3 +1,0 @@
-271abc
-abc
-checksum_v1 = f47a2c148d7811281944074ff36fa3c5
