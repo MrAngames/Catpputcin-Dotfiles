@@ -1,4 +1,5 @@
 # 🐧 Arch Dotfiles
+![Catppucin style](https://badger-wtf.vercel.app/api/v1/image?borderColor=%23cba6f7&borderWidth=4&startBg=%23181825&startText=%23cad3f5&startLabel=Catppucin&endBg=%23181825&endText=%23cad3f5&endLabel=style&rtl=0)
 
 Мои личные конфиги для **Arch Linux** с **Hyprland** с темой **Catppucin Macchiato**  и кучей приложений.  Фактически большая часть это просто темы **Macchiato** под эти утилиты, однико тут есть и мои повседневные настройки, например в config.fish, так и мои обычные конфиги с цветами из **Catppucin**. Ниже я привёл ссылки на темы или конфиги, которые я взял с других репозиториев. 
 Здесь собрано всё, что я использую каждый день: от оболочки до редактора и статус-бара.  
