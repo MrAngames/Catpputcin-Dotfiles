@@ -60,13 +60,14 @@ ___
 ## 📸 Скриншоты
 
 **Hyprfetch + Ranger + Bottom**  
-![Hyprfetch + Ranger + Bottom](images/Pasted image 20250919164544.png)
+![Hyprfetch + Ranger + Bottom](images/Pasted%20image%2020250919164544.png)
 
 **Wallpaper + Waybar**  
-![Wallpaper + Waybar](images/Pasted image 20250919164600.png)
+![Wallpaper + Waybar](images/Pasted%20image%2020250919164600.png)
 
 **Spicetify + Neovim + Mako**  
-![Spicetify + Neovim + Mako](images/Pasted image 20250919164722.png)
+![Spicetify + Neovim + Mako](images/Pasted%20image%2020250919164722.png)
+
 
 ---
 
