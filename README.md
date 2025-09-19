@@ -59,12 +59,15 @@ ___
 ---
 
 ## 📸 Скриншоты
-**Hyprfetch + Ranger + Bottom**
-![[Pasted image 20250919164544.png]]
-**Wallaper + Waybar**
-![[Pasted image 20250919164600.png]]
-**Spicetify + Neovim + Mako**
-![[Pasted image 20250919164722.png]]
+**Hyprfetch + Ranger + Bottom**  
+![Hyprfetch + Ranger + Bottom](images/Pasted image 20250919164722.png)
+
+**Wallpaper + Waybar**  
+![Wallpaper + Waybar](images/Pasted image 20250919164600.png)
+
+**Spicetify + Neovim + Mako**  
+![Spicetify + Neovim + Mako](images/Pasted image 20250919164722.png)
+
 ---
 
 ## 📜 Лицензия
