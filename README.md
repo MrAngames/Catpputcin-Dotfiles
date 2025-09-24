@@ -112,7 +112,7 @@ stow -D fish
 ## 📸 Скриншоты
 
 ### Hyprfetch + Ranger + Bottom
-![Hyprfetch + Ranger + Bottom](./images/hrb.png)
+![Hyprfetch + Ranger + Bottom](./images/hrb1.png)
 
 
 ### Neovim
