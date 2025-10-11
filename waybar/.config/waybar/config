@@ -42,15 +42,15 @@
             "warning": 30,
             "critical": 15
         },
-        "format": "{icon} {capacity}%",
-        "format-charging": "󰂄 {capacity}%",
-        "format-plugged": "󰂄 {capacity}%",
-        "format-alt": "{icon} {capacity}%",
+        "format": "{capacity}% {icon}",
+        "format-charging": "{capacity}% 󰂄",
+        "format-plugged": "{capacity} %󰂄",
+        "format-alt": "{capacity}% {icon}",
         "format-icons": ["󰁺", "󰁻",  "󰁼", "󰁽", "󰁾", "󰁿", "󰂀", "󰂁", "󰂂", "󰁹"]
     },
     "pulseaudio": {
         // "scroll-step": 1, // %, can be a float
-        "format": "{icon}  {volume}%",
+        "format": "{volume}% {icon}",
         "format-muted": "",
         "format-icons": {
             "default": ["", "", " "]

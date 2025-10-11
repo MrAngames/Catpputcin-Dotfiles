@@ -16,3 +16,7 @@ set -g fish_greeting ""
 function zapret
     sh -c "$(curl -fsSL https://raw.githubusercontent.com/Snowy-Fluffy/zapret.installer/refs/heads/main/installer.sh)" 
 end
+function windows
+	cd ~/winapps
+	docker-compose --file ./compose.yaml up
+end
